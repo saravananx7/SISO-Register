@@ -62,3 +62,5 @@ endmodule
 <img width="1313" height="168" alt="image" src="https://github.com/user-attachments/assets/e4bc9241-4c99-4ef3-85ca-e027bd1252f8" />
 
 **RESULTS**
+
+SISO Shift Register is implemented using verilog and validated their functionality using their functional tables
